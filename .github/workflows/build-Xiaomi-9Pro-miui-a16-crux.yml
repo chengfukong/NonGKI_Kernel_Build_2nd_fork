@@ -56,7 +56,7 @@ env:
 
   KERNELSU_METHOD: "manual" # shell, manual and only.
 
-  PATCHES_SOURCE: "JackA1ltman/NonGKI_Kernel_Patches" # [your_name]/[your_patch] -> gooder123/NonGKI_Patcher
+  PATCHES_SOURCE: "chengfukong/NonGKI_Kernel_Patches-fork" # [your_name]/[your_patch] -> gooder123/NonGKI_Patcher
   PATCHES_BRANCH: "mi_kernel" # [your_branch] -> main
 
   SUSFS_FOLDER_FIXED: "note7pro_aosp_a16" # Fill in your patch prefix directory here. Leave it blank if there isn't one. -> your_folder
