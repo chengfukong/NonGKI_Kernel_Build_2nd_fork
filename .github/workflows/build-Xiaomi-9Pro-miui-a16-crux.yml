@@ -15,10 +15,10 @@ env:
   KERNEL_SOURCE : "https://github.com/chengfukong/crux-marisa-fork"
   KERNEL_BRANCH : "reback"
 
-  CLANG_SOURCE : "https://gitlab.com/alphadroid-project/prebuilts_clang_host_linux-x86_clang-r547379"
-  CLANG_BRANCH : "α-15.2"
+  CLANG_SOURCE : "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b.git"
+  CLANG_BRANCH : "lineage-20.0"
 
-  GCC_GNU : true
+  GCC_GNU : false
   GCC_64_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git"
   GCC_64_BRANCH : "android12L-release"
   GCC_32_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9.git"
