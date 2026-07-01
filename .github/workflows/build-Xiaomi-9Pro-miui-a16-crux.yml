@@ -15,10 +15,10 @@ env:
   KERNEL_SOURCE : "https://github.com/chengfukong/crux-marisa-fork"
   KERNEL_BRANCH : "reback"
 
-  CLANG_SOURCE : "https://github.com/kdrag0n/proton-clang/archive/refs/tags/20210522.tar.gz"
+  CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.8/LLVM-22.1.8-Linux-X64.tar.xz"
   CLANG_BRANCH : ""
 
-  GCC_GNU : false
+  GCC_GNU : true
   GCC_64_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git"
   GCC_64_BRANCH : "android12L-release"
   GCC_32_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9.git"
