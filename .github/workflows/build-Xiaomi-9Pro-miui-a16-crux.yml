@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/chengfukong/crux-marisa-fork"
   KERNEL_BRANCH : "reback"
 
-  CLANG_SOURCE : "https://github.com/ZyCromerZ/Clang/releases/download/14.0.6-20260619-release/Clang-14.0.6-20260619.tar.gz"
+  CLANG_SOURCE : "https://github.com/kdrag0n/proton-clang/archive/refs/tags/20210522.tar.gz"
   CLANG_BRANCH : ""
 
   GCC_GNU : false
