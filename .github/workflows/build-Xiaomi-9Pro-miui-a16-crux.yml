@@ -6,7 +6,7 @@ on:
 
 env:
   # Device env
-  DEVICE_NAME : "xiaomi_9Pro"
+  DEVICE_NAME : "xiaomi_9pro"
   DEVICE_CODENAME : "crux"
 
   CUSTOM_CMDS : "CLANG_TRIPLE=aarch64-linux-gnu-"
@@ -15,8 +15,8 @@ env:
   KERNEL_SOURCE : "https://github.com/chengfukong/crux-marisa-fork"
   KERNEL_BRANCH : "reback"
 
-  CLANG_SOURCE : "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b.git"
-  CLANG_BRANCH : "lineage-20.0"
+  CLANG_SOURCE : "https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman"
+  CLANG_BRANCH : ""
 
   GCC_GNU : true
   GCC_64_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git"
