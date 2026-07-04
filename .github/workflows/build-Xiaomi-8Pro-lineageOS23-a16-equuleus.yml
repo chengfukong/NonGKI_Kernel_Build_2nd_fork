@@ -15,8 +15,8 @@ env:
   KERNEL_SOURCE : "https://github.com/duckyduckG/android_kernel_xiaomi_sdm845_419"
   KERNEL_BRANCH : "lineage-23.2_xiaomi"
 
-  CLANG_SOURCE : "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b"
-  CLANG_BRANCH : "lineage-20.0"
+  CLANG_SOURCE : "https://release-assets.githubusercontent.com/github-production-release-asset/75821432/0eece1b1-8449-4286-a9d1-d9d54969690e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-04T04%3A19%3A07Z&rscd=attachment%3B+filename%3Dclang%2Bllvm-22.1.8-x86_64-pc-windows-msvc.tar.xz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-04T03%3A19%3A04Z&ske=2026-07-04T04%3A19%3A07Z&sks=b&skv=2018-11-09&sig=uksB9GNfQaESlnEFA1%2Bmwkukjw6tJN8vCh6XV%2F39ZSk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MzEzOTM5MiwibmJmIjoxNzgzMTM1NzkyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.9Zdf8bSfbekvOkfhGXqUrUkbedzCxR1De2aktuD3NHc&response-content-disposition=attachment%3B%20filename%3Dclang%2Bllvm-22.1.8-x86_64-pc-windows-msvc.tar.xz&response-content-type=application%2Foctet-stream"
+  CLANG_BRANCH : ""
 
   GCC_GNU : false
   GCC_64_SOURCE : "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9.git"
