@@ -13,7 +13,7 @@ env:
   EXTRA_CMDS : "LD=ld.lld LLVM=1 LLVM_IAS=1"
 
   KERNEL_SOURCE : "https://github.com/DUCKS-QCM-5-4/android_kernel_xiaomi_sm8150"
-  KERNEL_BRANCH : "MI_ .SM8150_5.4"
+  KERNEL_BRANCH : "MI_SM8150_5.4"
 
   CLANG_SOURCE : "https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman"
   CLANG_BRANCH : ""
