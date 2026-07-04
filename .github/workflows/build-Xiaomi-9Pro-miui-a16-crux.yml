@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/chengfukong/android_kernel_xiaomi_sm8150_419"
   KERNEL_BRANCH : "lineage-23.2_xiaomi"
 
-    CLANG_SOURCE : "https://github.com/bachnxuan/aosp_clang_mirror/releases/download/clang-r574158-14475230/clang-r574158.tar.gz"
+  CLANG_SOURCE : "https://github.com/bachnxuan/aosp_clang_mirror/releases/download/clang-r574158-14475230/clang-r574158.tar.gz"
   CLANG_BRANCH : ""
 
   GCC_GNU : false
