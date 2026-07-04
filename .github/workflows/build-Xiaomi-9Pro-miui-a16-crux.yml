@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/DUCKS-QCM-5-4/android_kernel_xiaomi_sm8150"
   KERNEL_BRANCH : "MI_SM8150_5.4"
 
-  CLANG_SOURCE : "https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman"
+  CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.0/LLVM-20.1.0-Linux-X64.tar.xz"
   CLANG_BRANCH : ""
 
   GCC_GNU : false
@@ -25,7 +25,7 @@ env:
   GCC_32_BRANCH : "android12L-release"
 
   DEFCONFIG_SOURCE: ""
-  DEFCONFIG_NAME : "kona-perf_defconfig"
+  DEFCONFIG_NAME : "kona_defconfig"
   DEFCONFIG_ORIGIN_IMAGE: ""
   DEFCONFIG_FROM_BOOT: false
 
