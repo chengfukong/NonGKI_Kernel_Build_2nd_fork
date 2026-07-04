@@ -12,8 +12,8 @@ env:
   CUSTOM_CMDS : "CLANG_TRIPLE=aarch64-linux-gnu-"
   EXTRA_CMDS : "LD=ld.lld LLVM=1 LLVM_IAS=1"
 
-  KERNEL_SOURCE : "https://github.com/DUCKS-QCM-5-4/android_kernel_xiaomi_sm8150"
-  KERNEL_BRANCH : "MI_SM8150_5.4"
+  KERNEL_SOURCE : "https://github.com/chengfukong/android_kernel_xiaomi_sm8150_419"
+  KERNEL_BRANCH : "lineage-23.2_xiaomi"
 
   CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.0/LLVM-20.1.0-Linux-X64.tar.xz"
   CLANG_BRANCH : ""
